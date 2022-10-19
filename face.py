@@ -1,4 +1,4 @@
-#referencia
+#referencias
 #https://omes-va.com/face-recognition-python/
 
 from tkinter import Image
