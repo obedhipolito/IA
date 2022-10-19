@@ -1,3 +1,4 @@
+#v1
 #referencias
 #https://omes-va.com/face-recognition-python/
 
